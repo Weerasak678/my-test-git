@@ -1,4 +1,4 @@
 const kuy = () => {
 
-  return console.log('Holy Shit!!!');
+  return console.log('Holy Shit!!!+++');
 }
